@@ -58,5 +58,6 @@ jobs:
         containerAppEnvironment: managedEnvironment-MicroHackAppSer-aa6e
         containerAppName: towittencontainerapp
         targetPort: 8080
+        environmentVariable: API_URL=https://microhack-aiapp.livelyplant-1a27b472.westeurope.azurecontainerapps.io
 
      
